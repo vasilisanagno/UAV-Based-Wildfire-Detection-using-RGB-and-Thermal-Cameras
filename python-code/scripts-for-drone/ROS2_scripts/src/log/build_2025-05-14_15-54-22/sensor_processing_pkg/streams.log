@@ -1,0 +1,27 @@
+[1.508s] Invoking command in '/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/sensor_processing_pkg': PYTHONPATH=/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/sensor_processing_pkg/prefix_override:/usr/local/lib/python3.10/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/sensor_processing_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/sensor_processing_pkg/build --no-deps symlink_data
+[1.681s] running develop
+[1.810s] running egg_info
+[1.819s] creating sensor_processing_pkg.egg-info
+[1.830s] writing sensor_processing_pkg.egg-info/PKG-INFO
+[1.831s] writing dependency_links to sensor_processing_pkg.egg-info/dependency_links.txt
+[1.831s] writing entry points to sensor_processing_pkg.egg-info/entry_points.txt
+[1.831s] writing requirements to sensor_processing_pkg.egg-info/requires.txt
+[1.833s] writing top-level names to sensor_processing_pkg.egg-info/top_level.txt
+[1.834s] writing manifest file 'sensor_processing_pkg.egg-info/SOURCES.txt'
+[1.850s] reading manifest file 'sensor_processing_pkg.egg-info/SOURCES.txt'
+[1.851s] writing manifest file 'sensor_processing_pkg.egg-info/SOURCES.txt'
+[1.887s] running build_ext
+[1.887s] Creating /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/sensor_processing_pkg/lib/python3.10/site-packages/sensor-processing-pkg.egg-link (link to .)
+[1.887s] Installing preprocessing_node script to /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/sensor_processing_pkg/lib/sensor_processing_pkg
+[1.900s] Installing sensor_data_collector_node script to /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/sensor_processing_pkg/lib/sensor_processing_pkg
+[1.901s] 
+[1.901s] Installed /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/sensor_processing_pkg
+[1.901s] running symlink_data
+[1.901s] creating /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/sensor_processing_pkg/share/ament_index/resource_index/packages
+[1.961s] symbolically linking /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/sensor_processing_pkg/resource/sensor_processing_pkg -> /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/sensor_processing_pkg/share/ament_index/resource_index/packages
+[1.968s] creating /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/sensor_processing_pkg/share/sensor_processing_pkg/config
+[1.971s] symbolically linking /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/sensor_processing_pkg/config/homography_matrix.npz -> /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/sensor_processing_pkg/share/sensor_processing_pkg/config
+[1.982s] symbolically linking /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/sensor_processing_pkg/package.xml -> /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/sensor_processing_pkg/share/sensor_processing_pkg
+[1.994s] creating /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/sensor_processing_pkg/share/sensor_processing_pkg/launch
+[1.994s] symbolically linking /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/sensor_processing_pkg/launch/ros2_system_launch.py -> /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/sensor_processing_pkg/share/sensor_processing_pkg/launch
+[2.021s] Invoked command in '/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/sensor_processing_pkg' returned '0': PYTHONPATH=/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/sensor_processing_pkg/prefix_override:/usr/local/lib/python3.10/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/sensor_processing_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/sensor_processing_pkg/build --no-deps symlink_data

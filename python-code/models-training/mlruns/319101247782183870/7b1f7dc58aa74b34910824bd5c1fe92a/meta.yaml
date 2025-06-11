@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/319101247782183870/7b1f7dc58aa74b34910824bd5c1fe92a/artifacts
+end_time: 1747066588248
+entry_point_name: ''
+experiment_id: '319101247782183870'
+lifecycle_stage: active
+run_id: 7b1f7dc58aa74b34910824bd5c1fe92a
+run_name: receptive-stag-786
+run_uuid: 7b1f7dc58aa74b34910824bd5c1fe92a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747066572830
+status: 3
+tags: []
+user_id: ubuntu

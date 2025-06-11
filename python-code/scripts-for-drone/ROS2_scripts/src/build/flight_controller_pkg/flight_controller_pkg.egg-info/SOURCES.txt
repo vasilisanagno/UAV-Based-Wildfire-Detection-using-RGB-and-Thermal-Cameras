@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+flight_controller_pkg/__init__.py
+flight_controller_pkg/fire_centering_node.py
+flight_controller_pkg/flight_controller_node.py
+flight_controller_pkg.egg-info/PKG-INFO
+flight_controller_pkg.egg-info/SOURCES.txt
+flight_controller_pkg.egg-info/dependency_links.txt
+flight_controller_pkg.egg-info/entry_points.txt
+flight_controller_pkg.egg-info/requires.txt
+flight_controller_pkg.egg-info/top_level.txt
+flight_controller_pkg.egg-info/zip-safe
+resource/flight_controller_pkg

@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing object_detection_and_tracking_pkg.egg-info/PKG-INFO
+writing dependency_links to object_detection_and_tracking_pkg.egg-info/dependency_links.txt
+writing entry points to object_detection_and_tracking_pkg.egg-info/entry_points.txt
+writing requirements to object_detection_and_tracking_pkg.egg-info/requires.txt
+writing top-level names to object_detection_and_tracking_pkg.egg-info/top_level.txt
+reading manifest file 'object_detection_and_tracking_pkg.egg-info/SOURCES.txt'
+writing manifest file 'object_detection_and_tracking_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/object_detection_and_tracking_pkg/lib/python3.10/site-packages/object-detection-and-tracking-pkg.egg-link (link to .)
+Installing data_fusion_node script to /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/object_detection_and_tracking_pkg/lib/object_detection_and_tracking_pkg
+Installing rgb_detection_and_tracking_node script to /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/object_detection_and_tracking_pkg/lib/object_detection_and_tracking_pkg
+Installing thermal_detection_and_tracking_node script to /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/object_detection_and_tracking_pkg/lib/object_detection_and_tracking_pkg
+
+Installed /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/object_detection_and_tracking_pkg
+running symlink_data

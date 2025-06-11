@@ -1,0 +1,6 @@
+artifact_location: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/479276069874319723
+creation_time: 1739309017976
+experiment_id: '479276069874319723'
+last_update_time: 1739309017976
+lifecycle_stage: active
+name: YOLOv8_Experiment_Rgb_Aug_FP16

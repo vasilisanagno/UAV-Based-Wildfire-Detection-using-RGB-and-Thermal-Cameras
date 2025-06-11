@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/479276069874319723/373f584223ce438293b0471e7fff0650/artifacts
+end_time: 1747069056603
+entry_point_name: ''
+experiment_id: '479276069874319723'
+lifecycle_stage: active
+run_id: 373f584223ce438293b0471e7fff0650
+run_name: funny-gnat-310
+run_uuid: 373f584223ce438293b0471e7fff0650
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747069041568
+status: 3
+tags: []
+user_id: ubuntu

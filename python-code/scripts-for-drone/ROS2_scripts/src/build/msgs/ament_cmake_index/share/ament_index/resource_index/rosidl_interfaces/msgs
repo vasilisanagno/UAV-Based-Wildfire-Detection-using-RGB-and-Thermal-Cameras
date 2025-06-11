@@ -1,0 +1,10 @@
+msg/DetectionWithGPS.idl
+msg/DetectionWithGPS.msg
+msg/ImageWithGPS.idl
+msg/ImageWithGPS.msg
+msg/SensorData.idl
+msg/SensorData.msg
+msg/TrackedDetections.idl
+msg/TrackedDetections.msg
+msg/TrackedObject.idl
+msg/TrackedObject.msg

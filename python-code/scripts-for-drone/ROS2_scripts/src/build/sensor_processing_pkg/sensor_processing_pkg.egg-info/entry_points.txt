@@ -1,0 +1,3 @@
+[console_scripts]
+preprocessing_node = sensor_processing_pkg.preprocessing_node:main
+sensor_data_collector_node = sensor_processing_pkg.sensor_data_collector_node:main

@@ -1,0 +1,10 @@
+{
+  "package_name": "msgs",
+  "non_idl_tuples": [
+    "/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/msgs:msg/SensorData.msg",
+    "/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/msgs:msg/ImageWithGPS.msg",
+    "/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/msgs:msg/DetectionWithGPS.msg",
+    "/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/msgs:msg/TrackedObject.msg",
+    "/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/msgs:msg/TrackedDetections.msg"
+  ]
+}

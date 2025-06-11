@@ -1,0 +1,6 @@
+train: ./rgb_dataset/train/images
+val: ./rgb_dataset/valid/images
+test: ./rgb_dataset/test/images
+
+nc: 2
+names: ["fire", "smoke"]

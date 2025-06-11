@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/319101247782183870/1381bd75341c49a88505e46d5cb1b97a/artifacts
+end_time: 1747068753067
+entry_point_name: ''
+experiment_id: '319101247782183870'
+lifecycle_stage: active
+run_id: 1381bd75341c49a88505e46d5cb1b97a
+run_name: classy-cub-569
+run_uuid: 1381bd75341c49a88505e46d5cb1b97a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747068738040
+status: 3
+tags: []
+user_id: ubuntu

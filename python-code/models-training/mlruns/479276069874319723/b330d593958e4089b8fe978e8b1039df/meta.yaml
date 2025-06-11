@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/479276069874319723/b330d593958e4089b8fe978e8b1039df/artifacts
+end_time: 1747064239835
+entry_point_name: ''
+experiment_id: '479276069874319723'
+lifecycle_stage: active
+run_id: b330d593958e4089b8fe978e8b1039df
+run_name: overjoyed-slug-911
+run_uuid: b330d593958e4089b8fe978e8b1039df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747064223997
+status: 3
+tags: []
+user_id: ubuntu

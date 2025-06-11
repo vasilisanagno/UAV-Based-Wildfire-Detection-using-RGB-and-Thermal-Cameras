@@ -1,0 +1,21 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from msgs/msg/TrackedDetections.msg
+// generated code does not contain a copyright notice
+
+#include "msgs/msg/TrackedObject.idl"
+#include "sensor_msgs/msg/Image.idl"
+#include "sensor_msgs/msg/NavSatFix.idl"
+
+module msgs {
+  module msg {
+    struct TrackedDetections {
+      sensor_msgs::msg::NavSatFix gps;
+
+      sequence<msgs::msg::TrackedObject> tracks;
+
+      sensor_msgs::msg::Image rgb_image;
+
+      sensor_msgs::msg::Image thermal_image;
+    };
+  };
+};

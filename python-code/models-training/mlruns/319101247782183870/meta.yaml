@@ -1,0 +1,6 @@
+artifact_location: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/319101247782183870
+creation_time: 1739391922506
+experiment_id: '319101247782183870'
+last_update_time: 1739391922506
+lifecycle_stage: active
+name: YOLOv8_Experiment_Thermal_Aug_FP16

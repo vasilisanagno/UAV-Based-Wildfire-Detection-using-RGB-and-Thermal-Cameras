@@ -1,0 +1,9 @@
+source;share/alert_and_visualization_pkg/hook/pythonpath.ps1
+source;share/alert_and_visualization_pkg/hook/pythonpath.dsv
+source;share/alert_and_visualization_pkg/hook/pythonpath.sh
+source;share/alert_and_visualization_pkg/hook/ament_prefix_path.ps1
+source;share/alert_and_visualization_pkg/hook/ament_prefix_path.dsv
+source;share/alert_and_visualization_pkg/hook/ament_prefix_path.sh
+source;../../build/alert_and_visualization_pkg/share/alert_and_visualization_pkg/hook/pythonpath_develop.ps1
+source;../../build/alert_and_visualization_pkg/share/alert_and_visualization_pkg/hook/pythonpath_develop.dsv
+source;../../build/alert_and_visualization_pkg/share/alert_and_visualization_pkg/hook/pythonpath_develop.sh

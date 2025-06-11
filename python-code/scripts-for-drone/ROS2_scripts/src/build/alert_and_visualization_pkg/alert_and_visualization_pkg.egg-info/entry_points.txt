@@ -1,0 +1,3 @@
+[console_scripts]
+alert_system_node = alert_and_visualization_pkg.alert_system_node:main
+visualization_node = alert_and_visualization_pkg.visualization_node:main

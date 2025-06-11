@@ -1,0 +1,188 @@
+[0.245s] Invoking command in '/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/object_detection_and_tracking_pkg:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/object_tracking_pkg:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/sensor_processing_pkg:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/object_detection_pkg:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/flight_controller_pkg:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/camera_preprocessing_pkg:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/alert_and_visualization_pkg:/opt/ros/iron:/home/ubuntu/vanagnostop-thesis/Cosys-AirSim-5.2.1/ros2/src/install /usr/bin/cmake --build /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/msgs -- -j32 -l32
+[0.373s] [  1%] Built target msgs__rosidl_generator_type_description
+[0.373s] [  2%] Built target msgs__cpp
+[0.374s] [ 25%] Built target msgs__rosidl_generator_c
+[0.374s] [ 25%] Built target ament_cmake_python_symlink_msgs
+[0.374s] [ 35%] Built target msgs__rosidl_typesupport_c
+[0.374s] [ 44%] Built target msgs__rosidl_typesupport_cpp
+[0.374s] [ 71%] Built target msgs__rosidl_typesupport_introspection_cpp
+[0.375s] [ 74%] Built target msgs__rosidl_typesupport_fastrtps_cpp
+[0.375s] [ 74%] Built target msgs__rosidl_typesupport_fastrtps_c
+[0.375s] [ 82%] Built target msgs__rosidl_typesupport_introspection_c
+[0.375s] [ 82%] Built target msgs
+[0.375s] [ 83%] Built target msgs__py
+[0.375s] [ 91%] Built target msgs__rosidl_generator_py
+[0.375s] [100%] Built target msgs__rosidl_typesupport_c__pyext
+[0.375s] [100%] Built target msgs__rosidl_typesupport_introspection_c__pyext
+[0.375s] [100%] Built target msgs__rosidl_typesupport_fastrtps_c__pyext
+[0.437s] running egg_info
+[0.446s] writing msgs.egg-info/PKG-INFO
+[0.446s] writing dependency_links to msgs.egg-info/dependency_links.txt
+[0.446s] writing top-level names to msgs.egg-info/top_level.txt
+[0.475s] reading manifest file 'msgs.egg-info/SOURCES.txt'
+[0.476s] writing manifest file 'msgs.egg-info/SOURCES.txt'
+[0.489s] [100%] Built target ament_cmake_python_build_msgs_egg
+[0.509s] Invoked command in '/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/object_detection_and_tracking_pkg:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/object_tracking_pkg:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/sensor_processing_pkg:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/object_detection_pkg:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/flight_controller_pkg:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/camera_preprocessing_pkg:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/alert_and_visualization_pkg:/opt/ros/iron:/home/ubuntu/vanagnostop-thesis/Cosys-AirSim-5.2.1/ros2/src/install /usr/bin/cmake --build /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/msgs -- -j32 -l32
+[0.515s] Invoking command in '/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/object_detection_and_tracking_pkg:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/object_tracking_pkg:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/sensor_processing_pkg:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/object_detection_pkg:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/flight_controller_pkg:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/camera_preprocessing_pkg:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/alert_and_visualization_pkg:/opt/ros/iron:/home/ubuntu/vanagnostop-thesis/Cosys-AirSim-5.2.1/ros2/src/install /usr/bin/cmake --install /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/msgs
+[0.519s] -- Install configuration: ""
+[0.519s] -- Execute custom install script
+[0.519s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/ament_index/resource_index/rosidl_interfaces/msgs
+[0.520s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/msg/SensorData.json
+[0.520s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/msg/ImageWithGPS.json
+[0.520s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/msg/DetectionWithGPS.json
+[0.520s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/msg/TrackedObject.json
+[0.520s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/msg/TrackedDetections.json
+[0.520s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/detection_with_gps__functions.h
+[0.520s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/detection_with_gps__struct.h
+[0.520s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/detection_with_gps__type_support.h
+[0.520s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/image_with_gps__functions.h
+[0.520s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/image_with_gps__struct.h
+[0.520s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/image_with_gps__type_support.h
+[0.520s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/sensor_data__functions.h
+[0.521s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/sensor_data__struct.h
+[0.521s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/sensor_data__type_support.h
+[0.521s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/tracked_detections__functions.h
+[0.521s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/tracked_detections__struct.h
+[0.521s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/tracked_detections__type_support.h
+[0.521s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/tracked_object__functions.h
+[0.521s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/tracked_object__struct.h
+[0.521s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/tracked_object__type_support.h
+[0.521s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detection_with_gps.h
+[0.521s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/image_with_gps.h
+[0.521s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/rosidl_generator_c__visibility_control.h
+[0.521s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/sensor_data.h
+[0.521s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/tracked_detections.h
+[0.522s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/tracked_object.h
+[0.522s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/environment/library_path.sh
+[0.522s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/environment/library_path.dsv
+[0.522s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/detection_with_gps__rosidl_typesupport_fastrtps_c.h
+[0.522s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/image_with_gps__rosidl_typesupport_fastrtps_c.h
+[0.522s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/sensor_data__rosidl_typesupport_fastrtps_c.h
+[0.522s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/tracked_detections__rosidl_typesupport_fastrtps_c.h
+[0.522s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/tracked_object__rosidl_typesupport_fastrtps_c.h
+[0.522s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.522s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/detection_with_gps__rosidl_typesupport_introspection_c.h
+[0.522s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/image_with_gps__rosidl_typesupport_introspection_c.h
+[0.522s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/sensor_data__rosidl_typesupport_introspection_c.h
+[0.523s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/tracked_detections__rosidl_typesupport_introspection_c.h
+[0.523s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/tracked_object__rosidl_typesupport_introspection_c.h
+[0.523s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.523s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/detection_with_gps__builder.hpp
+[0.523s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/detection_with_gps__struct.hpp
+[0.523s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/detection_with_gps__traits.hpp
+[0.523s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/image_with_gps__builder.hpp
+[0.523s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/image_with_gps__struct.hpp
+[0.523s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/image_with_gps__traits.hpp
+[0.523s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/sensor_data__builder.hpp
+[0.523s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/sensor_data__struct.hpp
+[0.523s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/sensor_data__traits.hpp
+[0.523s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/tracked_detections__builder.hpp
+[0.523s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/tracked_detections__struct.hpp
+[0.524s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/tracked_detections__traits.hpp
+[0.524s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/tracked_object__builder.hpp
+[0.524s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/tracked_object__struct.hpp
+[0.524s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/tracked_object__traits.hpp
+[0.524s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detection_with_gps.hpp
+[0.524s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/image_with_gps.hpp
+[0.524s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/sensor_data.hpp
+[0.524s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/tracked_detections.hpp
+[0.524s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/tracked_object.hpp
+[0.524s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/detection_with_gps__rosidl_typesupport_fastrtps_cpp.hpp
+[0.524s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/image_with_gps__rosidl_typesupport_fastrtps_cpp.hpp
+[0.524s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/sensor_data__rosidl_typesupport_fastrtps_cpp.hpp
+[0.524s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/tracked_detections__rosidl_typesupport_fastrtps_cpp.hpp
+[0.525s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/tracked_object__rosidl_typesupport_fastrtps_cpp.hpp
+[0.525s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.525s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/detection_with_gps__rosidl_typesupport_introspection_cpp.hpp
+[0.525s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/image_with_gps__rosidl_typesupport_introspection_cpp.hpp
+[0.525s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/sensor_data__rosidl_typesupport_introspection_cpp.hpp
+[0.525s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/tracked_detections__rosidl_typesupport_introspection_cpp.hpp
+[0.525s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/include/msgs/msgs/msg/detail/tracked_object__rosidl_typesupport_introspection_cpp.hpp
+[0.525s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/environment/pythonpath.sh
+[0.525s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/environment/pythonpath.dsv
+[0.525s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/python3.10/site-packages/msgs-0.0.0-py3.10.egg-info/PKG-INFO
+[0.525s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/python3.10/site-packages/msgs-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.526s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/python3.10/site-packages/msgs-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.526s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/python3.10/site-packages/msgs-0.0.0-py3.10.egg-info/top_level.txt
+[0.526s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/python3.10/site-packages/msgs/__init__.py
+[0.526s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/python3.10/site-packages/msgs/_msgs_s.ep.rosidl_typesupport_c.c
+[0.526s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/python3.10/site-packages/msgs/_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[0.526s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/python3.10/site-packages/msgs/_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[0.526s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/python3.10/site-packages/msgs/libmsgs__rosidl_generator_py.so
+[0.526s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/python3.10/site-packages/msgs/msg/__init__.py
+[0.526s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/python3.10/site-packages/msgs/msg/_detection_with_gps.py
+[0.526s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/python3.10/site-packages/msgs/msg/_detection_with_gps_s.c
+[0.527s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/python3.10/site-packages/msgs/msg/_image_with_gps.py
+[0.527s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/python3.10/site-packages/msgs/msg/_image_with_gps_s.c
+[0.527s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/python3.10/site-packages/msgs/msg/_sensor_data.py
+[0.527s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/python3.10/site-packages/msgs/msg/_sensor_data_s.c
+[0.527s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/python3.10/site-packages/msgs/msg/_tracked_detections.py
+[0.527s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/python3.10/site-packages/msgs/msg/_tracked_detections_s.c
+[0.527s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/python3.10/site-packages/msgs/msg/_tracked_object.py
+[0.527s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/python3.10/site-packages/msgs/msg/_tracked_object_s.c
+[0.527s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/python3.10/site-packages/msgs/msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.527s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/python3.10/site-packages/msgs/msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.527s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/python3.10/site-packages/msgs/msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.527s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/python3.10/site-packages/msgs/msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.527s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/python3.10/site-packages/msgs/msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.527s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/python3.10/site-packages/msgs/msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.527s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/msg/SensorData.idl
+[0.528s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/msg/ImageWithGPS.idl
+[0.528s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/msg/DetectionWithGPS.idl
+[0.528s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/msg/TrackedObject.idl
+[0.528s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/msg/TrackedDetections.idl
+[0.528s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/msg/SensorData.msg
+[0.528s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/msg/ImageWithGPS.msg
+[0.528s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/msg/DetectionWithGPS.msg
+[0.528s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/msg/TrackedObject.msg
+[0.528s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/msg/TrackedDetections.msg
+[0.528s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/ament_index/resource_index/package_run_dependencies/msgs
+[0.528s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/ament_index/resource_index/parent_prefix_path/msgs
+[0.528s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/environment/ament_prefix_path.sh
+[0.528s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/environment/ament_prefix_path.dsv
+[0.528s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/environment/path.sh
+[0.529s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/environment/path.dsv
+[0.529s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/local_setup.bash
+[0.529s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/local_setup.sh
+[0.529s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/local_setup.zsh
+[0.529s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/local_setup.dsv
+[0.529s] -- Symlinking: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/package.dsv
+[0.548s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/ament_index/resource_index/packages/msgs
+[0.548s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/cmake/rosidl_cmake-extras.cmake
+[0.548s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.548s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.548s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[0.548s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/cmake/ament_cmake_export_targets-extras.cmake
+[0.548s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.548s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.548s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/cmake/msgsConfig.cmake
+[0.548s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/cmake/msgsConfig-version.cmake
+[0.548s] -- Up-to-date symlink: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/package.xml
+[0.548s] -- Up-to-date: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/libmsgs__rosidl_generator_c.so
+[0.549s] -- Up-to-date: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/libmsgs__rosidl_typesupport_fastrtps_c.so
+[0.549s] -- Up-to-date: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/libmsgs__rosidl_typesupport_introspection_c.so
+[0.549s] -- Up-to-date: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/libmsgs__rosidl_typesupport_c.so
+[0.549s] -- Up-to-date: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/libmsgs__rosidl_typesupport_fastrtps_cpp.so
+[0.549s] -- Up-to-date: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/libmsgs__rosidl_typesupport_introspection_cpp.so
+[0.549s] -- Up-to-date: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/libmsgs__rosidl_typesupport_cpp.so
+[0.570s] Listing '/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/python3.10/site-packages/msgs'...
+[0.571s] Listing '/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/python3.10/site-packages/msgs/msg'...
+[0.573s] -- Up-to-date: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/lib/libmsgs__rosidl_generator_py.so
+[0.573s] -- Up-to-date: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/cmake/export_msgs__rosidl_generator_cExport.cmake
+[0.573s] -- Up-to-date: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/cmake/export_msgs__rosidl_generator_cExport-noconfig.cmake
+[0.573s] -- Up-to-date: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/cmake/export_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[0.573s] -- Up-to-date: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/cmake/export_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[0.573s] -- Up-to-date: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/cmake/msgs__rosidl_typesupport_introspection_cExport.cmake
+[0.573s] -- Up-to-date: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/cmake/msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.573s] -- Up-to-date: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/cmake/msgs__rosidl_typesupport_cExport.cmake
+[0.573s] -- Up-to-date: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/cmake/msgs__rosidl_typesupport_cExport-noconfig.cmake
+[0.573s] -- Up-to-date: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/cmake/export_msgs__rosidl_generator_cppExport.cmake
+[0.573s] -- Up-to-date: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/cmake/export_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[0.574s] -- Up-to-date: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/cmake/export_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[0.574s] -- Up-to-date: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/cmake/msgs__rosidl_typesupport_introspection_cppExport.cmake
+[0.574s] -- Up-to-date: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/cmake/msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.574s] -- Up-to-date: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/cmake/msgs__rosidl_typesupport_cppExport.cmake
+[0.574s] -- Up-to-date: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/cmake/msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[0.574s] -- Up-to-date: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/cmake/export_msgs__rosidl_generator_pyExport.cmake
+[0.574s] -- Up-to-date: /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/msgs/share/msgs/cmake/export_msgs__rosidl_generator_pyExport-noconfig.cmake
+[0.575s] Invoked command in '/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/object_detection_and_tracking_pkg:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/object_tracking_pkg:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/sensor_processing_pkg:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/object_detection_pkg:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/flight_controller_pkg:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/camera_preprocessing_pkg:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/alert_and_visualization_pkg:/opt/ros/iron:/home/ubuntu/vanagnostop-thesis/Cosys-AirSim-5.2.1/ros2/src/install /usr/bin/cmake --install /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/msgs

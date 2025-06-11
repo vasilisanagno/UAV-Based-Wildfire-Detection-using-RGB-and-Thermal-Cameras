@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+object_detection_and_tracking_pkg/__init__.py
+object_detection_and_tracking_pkg/data_fusion_node.py
+object_detection_and_tracking_pkg/rgb_detection_and_tracking_node.py
+object_detection_and_tracking_pkg/thermal_detection_and_tracking_node.py
+object_detection_and_tracking_pkg.egg-info/PKG-INFO
+object_detection_and_tracking_pkg.egg-info/SOURCES.txt
+object_detection_and_tracking_pkg.egg-info/dependency_links.txt
+object_detection_and_tracking_pkg.egg-info/entry_points.txt
+object_detection_and_tracking_pkg.egg-info/requires.txt
+object_detection_and_tracking_pkg.egg-info/top_level.txt
+object_detection_and_tracking_pkg.egg-info/zip-safe
+resource/object_detection_and_tracking_pkg
+weights/yolo_rgb.engine
+weights/yolo_thermal.engine

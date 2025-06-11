@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/698217645417430584/1bde32db706e4c2484da150ffe19dabc/artifacts
+end_time: 1739313380936
+entry_point_name: ''
+experiment_id: '698217645417430584'
+lifecycle_stage: active
+run_id: 1bde32db706e4c2484da150ffe19dabc
+run_name: sincere-hare-167
+run_uuid: 1bde32db706e4c2484da150ffe19dabc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739312966003
+status: 3
+tags: []
+user_id: ubuntu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/153132564789560214/04326ac929204704939900346284cded/artifacts
+end_time: 1738157286450
+entry_point_name: ''
+experiment_id: '153132564789560214'
+lifecycle_stage: active
+run_id: 04326ac929204704939900346284cded
+run_name: thundering-shrew-55
+run_uuid: 04326ac929204704939900346284cded
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738157271019
+status: 3
+tags: []
+user_id: ubuntu

@@ -1,0 +1,18 @@
+[6.421s] Invoking command in '/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/alert_and_visualization_pkg': PYTHONPATH=/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/alert_and_visualization_pkg/prefix_override:/usr/local/lib/python3.10/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/alert_and_visualization_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/alert_and_visualization_pkg/build --no-deps symlink_data
+[6.600s] running develop
+[6.742s] running egg_info
+[6.751s] writing alert_and_visualization_pkg.egg-info/PKG-INFO
+[6.762s] writing dependency_links to alert_and_visualization_pkg.egg-info/dependency_links.txt
+[6.762s] writing entry points to alert_and_visualization_pkg.egg-info/entry_points.txt
+[6.763s] writing requirements to alert_and_visualization_pkg.egg-info/requires.txt
+[6.763s] writing top-level names to alert_and_visualization_pkg.egg-info/top_level.txt
+[6.781s] reading manifest file 'alert_and_visualization_pkg.egg-info/SOURCES.txt'
+[6.782s] writing manifest file 'alert_and_visualization_pkg.egg-info/SOURCES.txt'
+[6.821s] running build_ext
+[6.821s] Creating /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/alert_and_visualization_pkg/lib/python3.10/site-packages/alert-and-visualization-pkg.egg-link (link to .)
+[6.821s] Installing alert_system_node script to /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/alert_and_visualization_pkg/lib/alert_and_visualization_pkg
+[6.822s] Installing visualization_node script to /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/alert_and_visualization_pkg/lib/alert_and_visualization_pkg
+[6.822s] 
+[6.822s] Installed /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/alert_and_visualization_pkg
+[6.822s] running symlink_data
+[6.897s] Invoked command in '/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/alert_and_visualization_pkg' returned '0': PYTHONPATH=/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/alert_and_visualization_pkg/prefix_override:/usr/local/lib/python3.10/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/alert_and_visualization_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/alert_and_visualization_pkg/build --no-deps symlink_data

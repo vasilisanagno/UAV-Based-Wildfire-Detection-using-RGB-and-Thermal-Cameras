@@ -1,0 +1,25 @@
+running develop
+running egg_info
+creating sensor_processing_pkg.egg-info
+writing sensor_processing_pkg.egg-info/PKG-INFO
+writing dependency_links to sensor_processing_pkg.egg-info/dependency_links.txt
+writing entry points to sensor_processing_pkg.egg-info/entry_points.txt
+writing requirements to sensor_processing_pkg.egg-info/requires.txt
+writing top-level names to sensor_processing_pkg.egg-info/top_level.txt
+writing manifest file 'sensor_processing_pkg.egg-info/SOURCES.txt'
+reading manifest file 'sensor_processing_pkg.egg-info/SOURCES.txt'
+writing manifest file 'sensor_processing_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/sensor_processing_pkg/lib/python3.10/site-packages/sensor-processing-pkg.egg-link (link to .)
+Installing preprocessing_node script to /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/sensor_processing_pkg/lib/sensor_processing_pkg
+Installing sensor_data_collector_node script to /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/sensor_processing_pkg/lib/sensor_processing_pkg
+
+Installed /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/sensor_processing_pkg
+running symlink_data
+creating /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/sensor_processing_pkg/share/ament_index/resource_index/packages
+symbolically linking /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/sensor_processing_pkg/resource/sensor_processing_pkg -> /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/sensor_processing_pkg/share/ament_index/resource_index/packages
+creating /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/sensor_processing_pkg/share/sensor_processing_pkg/config
+symbolically linking /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/sensor_processing_pkg/config/homography_matrix.npz -> /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/sensor_processing_pkg/share/sensor_processing_pkg/config
+symbolically linking /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/sensor_processing_pkg/package.xml -> /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/sensor_processing_pkg/share/sensor_processing_pkg
+creating /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/sensor_processing_pkg/share/sensor_processing_pkg/launch
+symbolically linking /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/sensor_processing_pkg/launch/ros2_system_launch.py -> /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/sensor_processing_pkg/share/sensor_processing_pkg/launch

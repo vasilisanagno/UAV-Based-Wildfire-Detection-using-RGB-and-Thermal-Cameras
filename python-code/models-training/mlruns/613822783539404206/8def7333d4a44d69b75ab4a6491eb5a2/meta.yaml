@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/613822783539404206/8def7333d4a44d69b75ab4a6491eb5a2/artifacts
+end_time: 1738442178616
+entry_point_name: ''
+experiment_id: '613822783539404206'
+lifecycle_stage: active
+run_id: 8def7333d4a44d69b75ab4a6491eb5a2
+run_name: adaptable-crab-396
+run_uuid: 8def7333d4a44d69b75ab4a6491eb5a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738442162966
+status: 3
+tags: []
+user_id: ubuntu

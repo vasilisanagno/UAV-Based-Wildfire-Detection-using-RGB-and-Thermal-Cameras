@@ -1,0 +1,3 @@
+[console_scripts]
+fire_centering_node = flight_controller_pkg.fire_centering_node:main
+flight_controller_node = flight_controller_pkg.flight_controller_node:main

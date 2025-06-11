@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/479276069874319723/0c1626bacbfc4c28ac8d0d89a47a1094/artifacts
+end_time: 1739314586598
+entry_point_name: ''
+experiment_id: '479276069874319723'
+lifecycle_stage: active
+run_id: 0c1626bacbfc4c28ac8d0d89a47a1094
+run_name: placid-dolphin-768
+run_uuid: 0c1626bacbfc4c28ac8d0d89a47a1094
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739309017996
+status: 3
+tags: []
+user_id: ubuntu

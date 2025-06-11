@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/637847932559742649/6fc7b613bcba4057a043f8ea6f0bc855/artifacts
+end_time: 1738421913086
+entry_point_name: ''
+experiment_id: '637847932559742649'
+lifecycle_stage: active
+run_id: 6fc7b613bcba4057a043f8ea6f0bc855
+run_name: delightful-crow-184
+run_uuid: 6fc7b613bcba4057a043f8ea6f0bc855
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738341044249
+status: 3
+tags: []
+user_id: ubuntu

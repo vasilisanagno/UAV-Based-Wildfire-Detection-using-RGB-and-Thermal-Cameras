@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/145048673701680036/4ff965b596ae45358d36bbcbccf8fbf5/artifacts
+end_time: 1738506440604
+entry_point_name: ''
+experiment_id: '145048673701680036'
+lifecycle_stage: active
+run_id: 4ff965b596ae45358d36bbcbccf8fbf5
+run_name: upbeat-cat-186
+run_uuid: 4ff965b596ae45358d36bbcbccf8fbf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738505941013
+status: 3
+tags: []
+user_id: ubuntu

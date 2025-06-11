@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/637847932559742649/3546dc7cde6940b5a4a776dfe37f421d/artifacts
+end_time: 1738085066818
+entry_point_name: ''
+experiment_id: '637847932559742649'
+lifecycle_stage: active
+run_id: 3546dc7cde6940b5a4a776dfe37f421d
+run_name: calm-grouse-870
+run_uuid: 3546dc7cde6940b5a4a776dfe37f421d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738085051422
+status: 3
+tags: []
+user_id: ubuntu

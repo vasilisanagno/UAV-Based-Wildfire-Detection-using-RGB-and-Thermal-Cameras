@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/391642949374407704/61bd8056783c437d9706d50b1ea5d61e/artifacts
+end_time: 1738537382645
+entry_point_name: ''
+experiment_id: '391642949374407704'
+lifecycle_stage: active
+run_id: 61bd8056783c437d9706d50b1ea5d61e
+run_name: nervous-elk-44
+run_uuid: 61bd8056783c437d9706d50b1ea5d61e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738537365783
+status: 3
+tags: []
+user_id: ubuntu

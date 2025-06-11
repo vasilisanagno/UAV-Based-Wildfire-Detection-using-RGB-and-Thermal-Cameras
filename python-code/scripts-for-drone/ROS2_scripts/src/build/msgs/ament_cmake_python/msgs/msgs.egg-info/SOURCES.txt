@@ -1,0 +1,12 @@
+setup.py
+msgs/__init__.py
+msgs.egg-info/PKG-INFO
+msgs.egg-info/SOURCES.txt
+msgs.egg-info/dependency_links.txt
+msgs.egg-info/top_level.txt
+msgs/msg/__init__.py
+msgs/msg/_detection_with_gps.py
+msgs/msg/_image_with_gps.py
+msgs/msg/_sensor_data.py
+msgs/msg/_tracked_detections.py
+msgs/msg/_tracked_object.py

@@ -1,0 +1,7 @@
+artifact_location: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/607508767164179564
+creation_time: 1737946951447
+experiment_id: '607508767164179564'
+last_update_time: 1737999962512
+lifecycle_stage: deleted
+name: EfficientDet_Experiment_Rgb_Aug
+tags: {}

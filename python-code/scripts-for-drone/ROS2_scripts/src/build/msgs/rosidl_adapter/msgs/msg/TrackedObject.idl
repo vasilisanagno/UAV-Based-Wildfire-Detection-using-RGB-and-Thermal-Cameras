@@ -1,0 +1,25 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from msgs/msg/TrackedObject.msg
+// generated code does not contain a copyright notice
+
+
+module msgs {
+  module msg {
+    typedef float float__4[4];
+    struct TrackedObject {
+      int32 id;
+
+      string label;
+
+      float confidence;
+
+      @verbatim (language="comment", text=
+        "[x1, y1, x2, y2]")
+      float__4 box;
+
+      @verbatim (language="comment", text=
+        "\"rgb\" or \"thermal\"")
+      string source;
+    };
+  };
+};

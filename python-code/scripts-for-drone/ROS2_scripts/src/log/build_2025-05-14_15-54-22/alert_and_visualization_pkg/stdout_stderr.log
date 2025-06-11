@@ -1,0 +1,21 @@
+running develop
+running egg_info
+creating alert_and_visualization_pkg.egg-info
+writing alert_and_visualization_pkg.egg-info/PKG-INFO
+writing dependency_links to alert_and_visualization_pkg.egg-info/dependency_links.txt
+writing entry points to alert_and_visualization_pkg.egg-info/entry_points.txt
+writing requirements to alert_and_visualization_pkg.egg-info/requires.txt
+writing top-level names to alert_and_visualization_pkg.egg-info/top_level.txt
+writing manifest file 'alert_and_visualization_pkg.egg-info/SOURCES.txt'
+reading manifest file 'alert_and_visualization_pkg.egg-info/SOURCES.txt'
+writing manifest file 'alert_and_visualization_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/alert_and_visualization_pkg/lib/python3.10/site-packages/alert-and-visualization-pkg.egg-link (link to .)
+Installing alert_system_node script to /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/alert_and_visualization_pkg/lib/alert_and_visualization_pkg
+Installing visualization_node script to /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/alert_and_visualization_pkg/lib/alert_and_visualization_pkg
+
+Installed /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/alert_and_visualization_pkg
+running symlink_data
+creating /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/alert_and_visualization_pkg/share/ament_index/resource_index/packages
+symbolically linking /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/alert_and_visualization_pkg/resource/alert_and_visualization_pkg -> /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/alert_and_visualization_pkg/share/ament_index/resource_index/packages
+symbolically linking /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/alert_and_visualization_pkg/package.xml -> /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/alert_and_visualization_pkg/share/alert_and_visualization_pkg

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/765878592045640765/6db1f4521b204bf0b288db78d2c48288/artifacts
+end_time: 1739393235604
+entry_point_name: ''
+experiment_id: '765878592045640765'
+lifecycle_stage: active
+run_id: 6db1f4521b204bf0b288db78d2c48288
+run_name: languid-mare-613
+run_uuid: 6db1f4521b204bf0b288db78d2c48288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739392897190
+status: 3
+tags: []
+user_id: ubuntu

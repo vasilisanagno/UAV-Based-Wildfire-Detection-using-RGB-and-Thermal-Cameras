@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/319101247782183870/04e46a2c4a884862ae2d642934a00a73/artifacts
+end_time: 1739394836481
+entry_point_name: ''
+experiment_id: '319101247782183870'
+lifecycle_stage: active
+run_id: 04e46a2c4a884862ae2d642934a00a73
+run_name: rogue-rook-928
+run_uuid: 04e46a2c4a884862ae2d642934a00a73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739391922526
+status: 3
+tags: []
+user_id: ubuntu

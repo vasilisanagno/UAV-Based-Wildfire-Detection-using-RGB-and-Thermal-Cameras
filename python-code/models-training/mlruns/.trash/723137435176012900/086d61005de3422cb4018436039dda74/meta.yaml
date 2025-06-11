@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/723137435176012900/086d61005de3422cb4018436039dda74/artifacts
+deleted_time: 1737999966540
+end_time: 1737992932493
+entry_point_name: ''
+experiment_id: '723137435176012900'
+lifecycle_stage: deleted
+run_id: 086d61005de3422cb4018436039dda74
+run_name: respected-asp-496
+run_uuid: 086d61005de3422cb4018436039dda74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737992917059
+status: 3
+tags: []
+user_id: ubuntu

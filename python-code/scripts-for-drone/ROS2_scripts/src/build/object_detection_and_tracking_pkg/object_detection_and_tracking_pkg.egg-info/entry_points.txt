@@ -1,0 +1,4 @@
+[console_scripts]
+data_fusion_node = object_detection_and_tracking_pkg.data_fusion_node:main
+rgb_detection_and_tracking_node = object_detection_and_tracking_pkg.rgb_detection_and_tracking_node:main
+thermal_detection_and_tracking_node = object_detection_and_tracking_pkg.thermal_detection_and_tracking_node:main

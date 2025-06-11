@@ -1,0 +1,1 @@
+/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/alert_and_visualization_pkg/setup.py

@@ -1,0 +1,6 @@
+artifact_location: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/812384023617369696
+creation_time: 1738434358697
+experiment_id: '812384023617369696'
+last_update_time: 1738434358697
+lifecycle_stage: active
+name: FasterRCNN_Experiment_Thermal_Aug_1

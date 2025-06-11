@@ -1,0 +1,9 @@
+source;share/object_detection_and_tracking_pkg/hook/pythonpath.ps1
+source;share/object_detection_and_tracking_pkg/hook/pythonpath.dsv
+source;share/object_detection_and_tracking_pkg/hook/pythonpath.sh
+source;share/object_detection_and_tracking_pkg/hook/ament_prefix_path.ps1
+source;share/object_detection_and_tracking_pkg/hook/ament_prefix_path.dsv
+source;share/object_detection_and_tracking_pkg/hook/ament_prefix_path.sh
+source;../../build/object_detection_and_tracking_pkg/share/object_detection_and_tracking_pkg/hook/pythonpath_develop.ps1
+source;../../build/object_detection_and_tracking_pkg/share/object_detection_and_tracking_pkg/hook/pythonpath_develop.dsv
+source;../../build/object_detection_and_tracking_pkg/share/object_detection_and_tracking_pkg/hook/pythonpath_develop.sh

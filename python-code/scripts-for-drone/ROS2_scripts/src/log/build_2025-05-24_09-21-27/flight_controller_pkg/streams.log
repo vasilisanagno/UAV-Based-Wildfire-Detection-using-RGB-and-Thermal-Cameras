@@ -1,0 +1,18 @@
+[6.228s] Invoking command in '/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/flight_controller_pkg': PYTHONPATH=/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/flight_controller_pkg/prefix_override:/usr/local/lib/python3.10/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/flight_controller_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/flight_controller_pkg/build --no-deps symlink_data
+[6.390s] running develop
+[6.556s] running egg_info
+[6.565s] writing flight_controller_pkg.egg-info/PKG-INFO
+[6.572s] writing dependency_links to flight_controller_pkg.egg-info/dependency_links.txt
+[6.572s] writing entry points to flight_controller_pkg.egg-info/entry_points.txt
+[6.573s] writing requirements to flight_controller_pkg.egg-info/requires.txt
+[6.573s] writing top-level names to flight_controller_pkg.egg-info/top_level.txt
+[6.591s] reading manifest file 'flight_controller_pkg.egg-info/SOURCES.txt'
+[6.592s] writing manifest file 'flight_controller_pkg.egg-info/SOURCES.txt'
+[6.630s] running build_ext
+[6.630s] Creating /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/flight_controller_pkg/lib/python3.10/site-packages/flight-controller-pkg.egg-link (link to .)
+[6.631s] Installing fire_centering_node script to /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/flight_controller_pkg/lib/flight_controller_pkg
+[6.631s] Installing flight_controller_node script to /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/flight_controller_pkg/lib/flight_controller_pkg
+[6.631s] 
+[6.631s] Installed /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/flight_controller_pkg
+[6.632s] running symlink_data
+[6.665s] Invoked command in '/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/flight_controller_pkg' returned '0': PYTHONPATH=/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/flight_controller_pkg/prefix_override:/usr/local/lib/python3.10/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/flight_controller_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/flight_controller_pkg/build --no-deps symlink_data

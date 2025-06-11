@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/841130081327109506/64486f07e8764852a1a834dde6f4ae45/artifacts
+end_time: 1747158890537
+entry_point_name: ''
+experiment_id: '841130081327109506'
+lifecycle_stage: active
+run_id: 64486f07e8764852a1a834dde6f4ae45
+run_name: indecisive-bee-931
+run_uuid: 64486f07e8764852a1a834dde6f4ae45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747158875496
+status: 3
+tags: []
+user_id: ubuntu

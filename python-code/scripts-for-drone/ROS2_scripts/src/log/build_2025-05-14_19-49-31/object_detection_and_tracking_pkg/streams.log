@@ -1,0 +1,19 @@
+[0.818s] Invoking command in '/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/object_detection_and_tracking_pkg': PYTHONPATH=/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/object_detection_and_tracking_pkg/prefix_override:/usr/local/lib/python3.10/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/object_detection_and_tracking_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/object_detection_and_tracking_pkg/build --no-deps symlink_data
+[1.001s] running develop
+[1.124s] running egg_info
+[1.134s] writing object_detection_and_tracking_pkg.egg-info/PKG-INFO
+[1.134s] writing dependency_links to object_detection_and_tracking_pkg.egg-info/dependency_links.txt
+[1.134s] writing entry points to object_detection_and_tracking_pkg.egg-info/entry_points.txt
+[1.134s] writing requirements to object_detection_and_tracking_pkg.egg-info/requires.txt
+[1.134s] writing top-level names to object_detection_and_tracking_pkg.egg-info/top_level.txt
+[1.153s] reading manifest file 'object_detection_and_tracking_pkg.egg-info/SOURCES.txt'
+[1.154s] writing manifest file 'object_detection_and_tracking_pkg.egg-info/SOURCES.txt'
+[1.189s] running build_ext
+[1.189s] Creating /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/object_detection_and_tracking_pkg/lib/python3.10/site-packages/object-detection-and-tracking-pkg.egg-link (link to .)
+[1.189s] Installing data_fusion_node script to /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/object_detection_and_tracking_pkg/lib/object_detection_and_tracking_pkg
+[1.189s] Installing rgb_detection_and_tracking_node script to /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/object_detection_and_tracking_pkg/lib/object_detection_and_tracking_pkg
+[1.190s] Installing thermal_detection_and_tracking_node script to /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/object_detection_and_tracking_pkg/lib/object_detection_and_tracking_pkg
+[1.190s] 
+[1.190s] Installed /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/object_detection_and_tracking_pkg
+[1.190s] running symlink_data
+[1.217s] Invoked command in '/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/object_detection_and_tracking_pkg' returned '0': PYTHONPATH=/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/object_detection_and_tracking_pkg/prefix_override:/usr/local/lib/python3.10/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/install/object_detection_and_tracking_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/object_detection_and_tracking_pkg/build --no-deps symlink_data

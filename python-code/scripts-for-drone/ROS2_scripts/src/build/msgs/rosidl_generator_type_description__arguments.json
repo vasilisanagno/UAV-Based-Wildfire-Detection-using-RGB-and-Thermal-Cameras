@@ -1,0 +1,18 @@
+{
+  "package_name": "msgs",
+  "output_dir": "/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/msgs/rosidl_generator_type_description/msgs",
+  "idl_tuples": [
+    "/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/msgs/rosidl_adapter/msgs:msg/SensorData.idl",
+    "/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/msgs/rosidl_adapter/msgs:msg/ImageWithGPS.idl",
+    "/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/msgs/rosidl_adapter/msgs:msg/DetectionWithGPS.idl",
+    "/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/msgs/rosidl_adapter/msgs:msg/TrackedObject.idl",
+    "/home/ubuntu/vanagnostop-thesis/python-code/scripts-for-drone/ROS2_scripts/src/build/msgs/rosidl_adapter/msgs:msg/TrackedDetections.idl"
+  ],
+  "include_paths": [
+    "sensor_msgs:/opt/ros/iron/share/sensor_msgs",
+    "builtin_interfaces:/opt/ros/iron/share/builtin_interfaces",
+    "geometry_msgs:/opt/ros/iron/share/geometry_msgs",
+    "std_msgs:/opt/ros/iron/share/std_msgs",
+    "service_msgs:/opt/ros/iron/share/service_msgs"
+  ]
+}

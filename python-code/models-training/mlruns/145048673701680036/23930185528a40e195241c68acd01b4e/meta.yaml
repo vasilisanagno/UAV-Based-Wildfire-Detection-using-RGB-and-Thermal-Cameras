@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/145048673701680036/23930185528a40e195241c68acd01b4e/artifacts
+end_time: 1738204942316
+entry_point_name: ''
+experiment_id: '145048673701680036'
+lifecycle_stage: active
+run_id: 23930185528a40e195241c68acd01b4e
+run_name: nimble-squid-757
+run_uuid: 23930185528a40e195241c68acd01b4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738204926801
+status: 3
+tags: []
+user_id: ubuntu

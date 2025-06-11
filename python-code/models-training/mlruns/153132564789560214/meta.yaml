@@ -1,0 +1,6 @@
+artifact_location: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/153132564789560214
+creation_time: 1738070202301
+experiment_id: '153132564789560214'
+last_update_time: 1738070202301
+lifecycle_stage: active
+name: SSD_Experiment_Rgb_Aug_1

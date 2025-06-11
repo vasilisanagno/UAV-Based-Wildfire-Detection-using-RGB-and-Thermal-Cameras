@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/153132564789560214/7d625b444ca54d9fbb80a633ca02e58d/artifacts
+end_time: 1738070217724
+entry_point_name: ''
+experiment_id: '153132564789560214'
+lifecycle_stage: active
+run_id: 7d625b444ca54d9fbb80a633ca02e58d
+run_name: enchanting-wasp-795
+run_uuid: 7d625b444ca54d9fbb80a633ca02e58d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738070202319
+status: 3
+tags: []
+user_id: ubuntu

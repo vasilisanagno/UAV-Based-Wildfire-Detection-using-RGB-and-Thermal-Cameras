@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/812384023617369696/f19b5da052274702bdace00f17dd7e20/artifacts
+end_time: 1738512271747
+entry_point_name: ''
+experiment_id: '812384023617369696'
+lifecycle_stage: active
+run_id: f19b5da052274702bdace00f17dd7e20
+run_name: kindly-quail-620
+run_uuid: f19b5da052274702bdace00f17dd7e20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738512256321
+status: 3
+tags: []
+user_id: ubuntu

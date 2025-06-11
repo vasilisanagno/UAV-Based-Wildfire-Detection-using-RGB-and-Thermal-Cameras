@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/723137435176012900/7dcb3a05ecc341bc8abe9a6f79c43b54/artifacts
+deleted_time: 1737999966540
+end_time: 1737817464048
+entry_point_name: ''
+experiment_id: '723137435176012900'
+lifecycle_stage: deleted
+run_id: 7dcb3a05ecc341bc8abe9a6f79c43b54
+run_name: valuable-zebra-156
+run_uuid: 7dcb3a05ecc341bc8abe9a6f79c43b54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737817448531
+status: 3
+tags: []
+user_id: ubuntu

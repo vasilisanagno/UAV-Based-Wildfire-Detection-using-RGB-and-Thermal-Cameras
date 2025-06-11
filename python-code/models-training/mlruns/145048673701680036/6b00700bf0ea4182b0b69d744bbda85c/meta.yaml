@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/145048673701680036/6b00700bf0ea4182b0b69d744bbda85c/artifacts
+end_time: 1738191042200
+entry_point_name: ''
+experiment_id: '145048673701680036'
+lifecycle_stage: active
+run_id: 6b00700bf0ea4182b0b69d744bbda85c
+run_name: glamorous-stoat-276
+run_uuid: 6b00700bf0ea4182b0b69d744bbda85c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738191025714
+status: 3
+tags: []
+user_id: ubuntu

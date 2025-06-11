@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/637847932559742649/751d5318066d4f0a87ad32072d408f92/artifacts
+end_time: 1738163951952
+entry_point_name: ''
+experiment_id: '637847932559742649'
+lifecycle_stage: active
+run_id: 751d5318066d4f0a87ad32072d408f92
+run_name: gifted-pug-914
+run_uuid: 751d5318066d4f0a87ad32072d408f92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738163936560
+status: 3
+tags: []
+user_id: ubuntu

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/723137435176012900/9455dbaac92245ceb2659d6e14576bd9/artifacts
+deleted_time: 1737999966540
+end_time: 1737994720343
+entry_point_name: ''
+experiment_id: '723137435176012900'
+lifecycle_stage: deleted
+run_id: 9455dbaac92245ceb2659d6e14576bd9
+run_name: persistent-dog-727
+run_uuid: 9455dbaac92245ceb2659d6e14576bd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737994711079
+status: 3
+tags: []
+user_id: ubuntu

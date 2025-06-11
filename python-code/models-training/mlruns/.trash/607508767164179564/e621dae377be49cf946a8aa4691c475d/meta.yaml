@@ -1,0 +1,16 @@
+artifact_uri: file:///home/ubuntu/vanagnostop-thesis/python-code/models-training/mlruns/607508767164179564/e621dae377be49cf946a8aa4691c475d/artifacts
+deleted_time: 1737999962512
+end_time: 1737946966914
+entry_point_name: ''
+experiment_id: '607508767164179564'
+lifecycle_stage: deleted
+run_id: e621dae377be49cf946a8aa4691c475d
+run_name: gaudy-shrew-26
+run_uuid: e621dae377be49cf946a8aa4691c475d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737946951465
+status: 3
+tags: []
+user_id: ubuntu
