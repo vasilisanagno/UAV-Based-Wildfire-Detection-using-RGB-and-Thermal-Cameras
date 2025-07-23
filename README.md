@@ -38,7 +38,7 @@ The **official thesis presentation slides**, summarizing the core contributions 
 - **Wildfire detection** using both RGB (fire/smoke) and thermal (fire/humans/animals) modalities
 - **Custom datasets** built from real and synthetic sources
 - **Model comparison** with benchmarks on accuracy, inference speed, and resource usage
-- **Real-time inference** on edge devices using TensorRT optimizations (FP16 & INT8)
+- **Real-time inference** on NVIDIA Jetson Orin Nano and RTX 4090 using TensorRT optimizations (FP16 & INT8)
 - **Simulation environment** with realistic fire, smoke, humans, and wildlife in Unreal Engine
 - **Image registration pipeline** for frame-level alignment of RGB and thermal inputs
 - **GPS-enabled alerting** and visualization
