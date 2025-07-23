@@ -67,8 +67,11 @@ The **official thesis presentation slides**, summarizing the core contributions 
 ## Author
 
 **Vasileios Anagnostopoulos**
+
 University of Thessaly, Department of ECE
+
 Supervisor: Prof. Christos Antonopoulos
+
 July 2025
 
 ---
