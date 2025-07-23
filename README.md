@@ -10,7 +10,7 @@ The project presents the design, development, and evaluation of a **real-time, m
 
 ## Contents
 
-### `Thesis.pdf`
+### [`Thesis.pdf`](Thesis.pdf)
 The **full written thesis** (in English) presenting the detailed methodology, implementation, experiments, results, and future work.
 
 It includes:
@@ -23,7 +23,7 @@ It includes:
 - Image alignment using calibration and homography
 - Evaluation results and real-time demo screenshots
 
-### `Thesis-Presentation.pptx`
+### [`Thesis-Presentation.pptx`](Thesis-Presentation.pptx)
 The **official thesis presentation slides**, summarizing the core contributions of the project, including:
 - Motivation and objectives
 - Dataset samples
