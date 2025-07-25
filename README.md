@@ -10,21 +10,21 @@ The project presents the design, development, and evaluation of a **real-time, m
 
 ## 📚 Contents
 
-- [📄 Files](#-files)
+- [📄 Files](#files)
   - [Thesis.pdf](#thesispdf)
   - [Thesis-Presentation.pptx](#thesis-presentationpptx)
-  - [📁 Folder Structure](#-folder-structure)
-  - [📦 Missing: Datasets & Unreal Engine Environment](#-missing:-datasets-&-unreal-engine-environment)
-- [🔍 Key Features](#-key-features)
-- [📦 Dataset Samples](#-dataset-samples)
-  - [RGB Dataset Samples](#-rgb-dataset-samples)
-  - [Thermal Dataset Samples](#-thermal-dataset-samples)
-- [📊 Data Engineering Diagram](#-data-engineering-diagram)
-- [🧠 System and ROS 2 Diagrams](#-system-and-ros-2-diagrams)
-- [🔥 Real-Time Experiment Screenshots](#-real-time-experiment-screenshots)
-- [📎 Related Links](#-related-links)
-- [🛠 Technologies Used](#-technologies-used)
-- [📌 Author](#-author)
+  - [📁 Folder Structure](#folder-structure)
+  - [📦 Missing: Datasets & Unreal Engine Environment](#missing-datasets--unreal-engine-environment)
+- [🔍 Key Features](#key-features)
+- [📦 Dataset Samples](#dataset-samples)
+  - [RGB Dataset Samples](#rgb-dataset-samples)
+  - [Thermal Dataset Samples](#thermal-dataset-samples)
+- [📊 Data Engineering Diagram](#data-engineering-diagram)
+- [🧠 System and ROS 2 Diagrams](#system-and-ros-2-diagrams)
+- [🔥 Real-Time Experiment Screenshots](#real-time-experiment-screenshots)
+- [📎 Related Links](#related-links)
+- [🛠 Technologies Used](#technologies-used)
+- [📌 Author](#author)
 
 ---
 
