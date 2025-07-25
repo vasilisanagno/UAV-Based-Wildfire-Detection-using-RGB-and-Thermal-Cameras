@@ -8,7 +8,27 @@ The project presents the design, development, and evaluation of a **real-time, m
 
 ---
 
-## 📄 Contents
+## 📚 Contents
+
+- [📄 Files](#-files)
+  - [Thesis.pdf](#thesispdf)
+  - [Thesis-Presentation.pptx](#thesis-presentationpptx)
+  - [📁 Folder Structure](#-folder-structure)
+  - [📦 Missing: Datasets & Unreal Engine Environment](#-missing:-datasets-&-unreal-engine-environment)
+- [🔍 Key Features](#-key-features)
+- [📦 Dataset Samples](#-dataset-samples)
+  - [RGB Dataset Samples](#-rgb-dataset-samples)
+  - [Thermal Dataset Samples](#-thermal-dataset-samples)
+- [📊 Data Engineering Diagram](#-data-engineering-diagram)
+- [🧠 System and ROS 2 Diagrams](#-system-and-ros-2-diagrams)
+- [🔥 Real-Time Experiment Screenshots](#-real-time-experiment-screenshots)
+- [📎 Related Links](#-related-links)
+- [🛠 Technologies Used](#-technologies-used)
+- [📌 Author](#-author)
+
+---
+
+## 📄 Files
 
 ### [`Thesis.pdf`](Thesis.pdf)
 The **full written thesis** (in English) presenting the detailed methodology, implementation, experiments, results and future work.
@@ -33,6 +53,30 @@ The **official thesis presentation slides**, summarizing the core contributions 
 
 ---
 
+### 📁 Folder Structure
+
+- 📂 `scripts-preprocessing`  
+  Contains the **data preprocessing scripts**, including image cropping, resolution adjustment, grayscale conversion for thermal images, data augmentation, label formatting, removal of low-quality or irrelevant samples and conversion to multiple object detection annotation formats (YOLO, Pascal VOC and COCO).
+
+- 📂 `models-training`  
+  Includes **training scripts**, model configuration files, **training logs**, benchmark results and **TensorRT optimization code** (e.g. FP16/INT8 conversions).
+
+- 📂 `scripts-for-drone`  
+  Holds **ROS 2 nodes and launch files** for running the UAV detection system, along with the **image registration pipeline** and integration with object detection and tracking.
+
+- 📂 `readme_images`  
+  Stores all the visual content used in this README, such as dataset examples, architectural diagrams and real-time simulation screenshots.
+
+---
+
+### 📦 Missing: Datasets & Unreal Engine Environment
+
+> ⚠️ **Note**: The **custom RGB and thermal datasets**, along with the **Unreal Engine simulation environment** created for this thesis, are **not included** in this repository due to their large size (**over 80 GB** combined).  
+>  
+> If you are interested in accessing these files, please contact the author.
+
+---
+
 ## 🔍 Key Features
 
 - 🔥 **Wildfire detection** using both RGB (fire/smoke) and thermal (fire/humans/animals) modalities
@@ -51,14 +95,14 @@ The **official thesis presentation slides**, summarizing the core contributions 
 
 RGB and Thermal dataset examples used for training:
 
-**RGB Dataset Samples**
+### RGB Dataset Samples
 
 ![RGB Dataset Sample 1](readme_images/rgb_sample_1.png)
 ![RGB Dataset Sample 2](readme_images/rgb_sample_3.png)
 ![RGB Dataset Sample 3](readme_images/rgb_sample_5.png)
 ![RGB Dataset Sample 4](readme_images/rgb_sample_6.png)
 
-**Thermal Dataset Samples**
+### Thermal Dataset Samples
 
 ![Thermal Dataset Sample 1](readme_images/thermal_sample_3.png)
 ![Thermal Dataset Sample 2](readme_images/thermal_sample_5.png)
@@ -118,7 +162,7 @@ Here are sample frames from real-time inference during simulation:
 
 **Vasileios Anagnostopoulos**
 
-University of Thessaly, Department of ECE
+University of Thessaly, Department of Electrical and Computer Engineering (ECE)
 
 Supervisor: Prof. Christos Antonopoulos
 
