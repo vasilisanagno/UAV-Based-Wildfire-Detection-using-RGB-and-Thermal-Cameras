@@ -55,6 +55,9 @@ The **official thesis presentation slides**, summarizing the core contributions 
 
 ### 📁 Folder Structure
 
+- 📂 `Cosys-AirSim-5.2.1`  
+  Contains the customized AirSim source code, tailored for the simulation environment used in this project. This includes modifications for the multi-camera setup (RGB & thermal) and other simulation-related enhancements.
+  
 - 📂 `scripts-preprocessing`  
   Contains the **data preprocessing scripts**, including image cropping, resolution adjustment, grayscale conversion for thermal images, data augmentation, label formatting, removal of low-quality or irrelevant samples and conversion to multiple object detection annotation formats (YOLO, Pascal VOC and COCO).
 
