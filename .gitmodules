@@ -1,4 +1,0 @@
-[submodule "Cosys-AirSim-5.2.1"]
-	path = Cosys-AirSim-5.2.1
-	url = https://github.com/Cosys-Lab/Cosys-AirSim.git
-	branch = 5.2.1
